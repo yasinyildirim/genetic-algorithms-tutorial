@@ -1,5 +1,5 @@
 # genetic-algorithms-tutorial
-This repository includes sample codes for genetic algorithms consisting of given problem: 
+This repository includes project for genetic algorithms consisting of given problem: 
 
 ##Problem Definition
 
