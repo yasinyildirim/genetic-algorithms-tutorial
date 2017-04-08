@@ -1,7 +1,7 @@
 # genetic-algorithms-tutorial
 This repository includes project for genetic algorithms consisting of given problem: 
 
-##Problem Definition
+## Problem Definition
 
  Given the digits 0 through 9 and the operators +, -, * and /,  find a sequence that will represent a given target number. The operators will be applied sequentially from left to right as you read.
 
@@ -14,7 +14,7 @@ If  75.5 is the chosen number then 5/2+9*7-5 would be a possible solution.
 
            
  
-##Stage 1: Encoding
+## Stage 1: Encoding
 
  
 
@@ -80,7 +80,7 @@ These genes are all strung together to form the chromosome:
 
  
 
-###A Quick Word about Decoding
+### A Quick Word about Decoding
 
  
 
@@ -110,7 +110,7 @@ Which is meaningless in the context of this problem! Therefore, when decoding, t
 
 2   +   7
 
-###Reference
+### Reference
 Details of tutorial can be found in here:
 http://www.ai-junkie.com/ga/intro/gat3.html
 
